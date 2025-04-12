@@ -25,4 +25,4 @@ Used: Cleaned version of `Churn_Modelling.csv` with gender and geography info
    ```
 
 ## 📬 Author
-[Your Name](https://www.linkedin.com/in/yourprofile)
+[Augustine](www.linkedin.com/in/augustine-jebakumar)
